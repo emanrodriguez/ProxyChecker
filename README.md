@@ -28,12 +28,12 @@ RECRUITER-USE-ONLY
 3. Different modules:
    1. Run Proxy Checker
       1. Will begin the running a proxy check of all files found inside the proxies.txt file
-      2. <img src="https://i.imgur.com/R5O34Kn.gif" width="80%" height="80%">
+      2. <img src="https://i.imgur.com/R5O34Kn.gif">
    1. Open Proxy File 
       1. Will open the proxies.txt file, there are some proxies pre-loaded so that you can run a test right away
    1. View All Proxy Files
       1. Will allow you to view all the proxy files based on their risk score
-      2. <img src="https://i.imgur.com/RiBDszY.gif" width="80%" height="80%">
+      2. <img src="https://i.imgur.com/RiBDszY.gif">
    1. Delete Proxies from Files
       1. Truncates all data inside ALL risk score files
    1. Reset MetaData
